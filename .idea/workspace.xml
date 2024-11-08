@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2a87a43-2637-4e1a-a3a2-17071a7e5582" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/electioin 2024.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_1107_0953.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_1107_1538.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extrapolate.py" afterDir="false" />
-    </list>
+    <list default="true" id="b2a87a43-2637-4e1a-a3a2-17071a7e5582" name="Changes" comment="Vote extrapolation. Three data files." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MickWest"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MickWest/Extrapolating-2024.git",
+    "accountId": "13180e41-8a77-4e15-8166-044e15f02520"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -71,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730996173145</updated>
     </task>
+    <task id="LOCAL-00001" summary="Vote extrapolation. Three data files.">
+      <option name="closed" value="true" />
+      <created>1731023556884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731023556884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Vote extrapolation. Three data files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Vote extrapolation. Three data files." />
   </component>
 </project>
