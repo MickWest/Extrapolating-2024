@@ -3,7 +3,7 @@ import math
 
 # Load data from a json file saved from https://api-election.cbsnews.com/api/public/races2/2024/G?filter.office=P
 
-with open('data_1108_2245.json', 'r') as file:
+with open('data_1110_1251.json', 'r') as file:
     # Assuming `data.json` contains a JSON structure
     data = json.load(file)
 

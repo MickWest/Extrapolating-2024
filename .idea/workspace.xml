@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2a87a43-2637-4e1a-a3a2-17071a7e5582" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data_1108_0936.json" afterDir="false" />
+    <list default="true" id="b2a87a43-2637-4e1a-a3a2-17071a7e5582" name="Changes" comment="Updated data files to 1108_2245">
+      <change afterPath="$PROJECT_DIR$/data_1109_2224.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_1110_1251.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/extrapolate.py" beforeDir="false" afterPath="$PROJECT_DIR$/extrapolate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,12 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1731053912654</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated data files to 1108_2245">
+      <option name="closed" value="true" />
+      <created>1731134868792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731134868792</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Vote extrapolation. Three data files." />
     <MESSAGE value="Added first Friday data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added first Friday data" />
+    <MESSAGE value="Updated data files to 1108_2245" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated data files to 1108_2245" />
   </component>
 </project>
