@@ -3,7 +3,7 @@ import math
 
 # Load data from a json file saved from https://api-election.cbsnews.com/api/public/races2/2024/G?filter.office=P
 
-with open('data_1110_1251.json', 'r') as file:
+with open('data_1112_1212.json', 'r') as file:
     # Assuming `data.json` contains a JSON structure
     data = json.load(file)
 
@@ -47,7 +47,8 @@ for race in data:
                     extrapolated_votes_harris += harris_extrapolated
                     harris_pickup = harris_extrapolated - vote_count
             # Display state results
-            print(f"{state} {race['pctIn']}% in: Trump {trump_vote_count:,} + {trump_pickup:,} = {trump_extrapolated:,} , Harris {harris_vote_count:,} + {harris_pickup:,} = {harris_extrapolated:,}")
+#            print(f"{state} {race['pctIn']}% in: Trump {trump_vote_count:,} + {trump_pickup:,} = {trump_extrapolated:,} , Harris {harris_vote_count:,} + {harris_pickup:,} = {harris_extrapolated:,}")
+            print(f"{state}, {race['pctIn']}, {trump_vote_count},{trump_pickup},{trump_extrapolated},{harris_vote_count},{harris_pickup},{harris_extrapolated}, {trump_pickup+harris_pickup}")
 
 # Display final results
 print("Total Votes (reported):")
