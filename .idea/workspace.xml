@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2a87a43-2637-4e1a-a3a2-17071a7e5582" name="Changes" comment="Updated data files to 1112_1212">
-      <change afterPath="$PROJECT_DIR$/data_1113_1432.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extrapolate.py" beforeDir="false" afterPath="$PROJECT_DIR$/extrapolate.py" afterDir="false" />
-    </list>
+    <list default="true" id="b2a87a43-2637-4e1a-a3a2-17071a7e5582" name="Changes" comment="1113 data and more info in printout" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731442486499</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1113 data and more info in printout">
+      <option name="closed" value="true" />
+      <created>1731538392956</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731538392956</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,6 +137,7 @@
     <MESSAGE value="Updated data files to 1108_2245" />
     <MESSAGE value="Updated data files to 1110_1251" />
     <MESSAGE value="Updated data files to 1112_1212" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated data files to 1112_1212" />
+    <MESSAGE value="1113 data and more info in printout" />
+    <option name="LAST_COMMIT_MESSAGE" value="1113 data and more info in printout" />
   </component>
 </project>

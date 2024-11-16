@@ -3,7 +3,7 @@ import math
 
 # Load data from a json file saved from https://api-election.cbsnews.com/api/public/races2/2024/G?filter.office=P
 
-with open('data_1113_1432.json', 'r') as file:
+with open('data_1115_1320.json', 'r') as file:
     # Assuming `data.json` contains a JSON structure
     data = json.load(file)
 
@@ -20,8 +20,8 @@ for race in data:
         pct_in = race['pctIn'] / 100  # Convert to a decimal
 
         # if it's 99% then treat it like it's 100%. At this point most 99% states will be near 100%
-        # if pct_in == 0.99:
-        #      pct_in = 1
+        if pct_in == 0.99:
+             pct_in = 1
         state = race['stateCode']
 
         trump_pickup = 0
@@ -61,10 +61,10 @@ print(f"Kamala Harris: {total_votes_harris:,}")
 print("\nExtrapolated Final Vote Counts (based on percent in):")
 print(f"Donald Trump: {int(extrapolated_votes_trump):,}")
 print(f"Kamala Harris: {int(extrapolated_votes_harris):,}")
-print("\nChange from 2020")
+print("\nExtrapolated Change from 2020")
 print(f"Harris's {extrapolated_votes_harris:,} is lower than Biden's   81,283,501 by {81283501-extrapolated_votes_harris:,}")
 print(f"Trump's  {extrapolated_votes_trump:,} is higher than his 2020 74,223,975 by {-74223975+extrapolated_votes_trump:,}")
-print("\nRemain votes")
+print("\nEstimated Remaining votes")
 print(f"Donald Trump: {int(extrapolated_votes_trump-total_votes_trump):,}")
 print(f"Kamala Harris: {int(extrapolated_votes_harris-total_votes_harris):,}")
 
