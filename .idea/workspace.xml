@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2a87a43-2637-4e1a-a3a2-17071a7e5582" name="Changes" comment="1113 data and more info in printout" />
+    <list default="true" id="b2a87a43-2637-4e1a-a3a2-17071a7e5582" name="Changes" comment="Nove 15 data">
+      <change beforePath="$PROJECT_DIR$/extrapolate.py" beforeDir="false" afterPath="$PROJECT_DIR$/extrapolate.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,14 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python._pydev_execfile.executor": "Run",
-    "Python.extrapolate.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extrapolate.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -128,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731538392956</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Nove 15 data">
+      <option name="closed" value="true" />
+      <created>1731718627345</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731718627345</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +148,7 @@
     <MESSAGE value="Updated data files to 1110_1251" />
     <MESSAGE value="Updated data files to 1112_1212" />
     <MESSAGE value="1113 data and more info in printout" />
-    <option name="LAST_COMMIT_MESSAGE" value="1113 data and more info in printout" />
+    <MESSAGE value="Nove 15 data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nove 15 data" />
   </component>
 </project>
